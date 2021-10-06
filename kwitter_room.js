@@ -1,14 +1,11 @@
-
-//ADD YOUR FIREBASE LINKS HERE
-// Your web app's Firebase configuration
-const firebaseConfig = {
-      apiKey: "AIzaSyBsBAB7Xgz1b1gNwas3Ez-NswTkuiCRaXk",
-      authDomain: "kwitter-ff18a.firebaseapp.com",
-      databaseURL: "https://kwitter-ff18a-default-rtdb.firebaseio.com",
-      projectId: "kwitter-ff18a",
-      storageBucket: "kwitter-ff18a.appspot.com",
-      messagingSenderId: "139450447665",
-      appId: "1:139450447665:web:4717ee34b4ba3eef266210"
+var firebaseConfig = {
+      apiKey: "AIzaSyCfjgHS6MmNyhThumeg9Vh5FIPT8C93OMw",
+      authDomain: "kwitter-new-dab82.firebaseapp.com",
+      databaseURL: "https://kwitter-new-dab82-default-rtdb.firebaseio.com",
+      projectId: "kwitter-new-dab82",
+      storageBucket: "kwitter-new-dab82.appspot.com",
+      messagingSenderId: "444540316082",
+      appId: "1:444540316082:web:a8cf4ccef23020a0951cab"
     };
     
     // Initialize Firebase
